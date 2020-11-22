@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../arch/libkustova_a_max_vector_mpi_lib.a  CMakeFiles/kustova_a_max_vector_mpi_lib.dir/main.cpp.o CMakeFiles/kustova_a_max_vector_mpi_lib.dir/max_vector.cpp.o
+/usr/bin/ranlib ../../../arch/libkustova_a_max_vector_mpi_lib.a
